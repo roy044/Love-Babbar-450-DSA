@@ -4,6 +4,8 @@
 - **Youtube Channel**: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 
 - **Sheet Link**: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Since I know quite a few languages ,the solutions wont be fixed on a particular language keeping in account my personal practise. I would code in [ JAVA , C , C++ or Python] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+
 <!--
 <h2 id="index">Index :</h2>
 <ol>
